@@ -1,4 +1,5 @@
 ### Hi there 👋
+I introduce myself. I am Juan Manuel, I am currently working as a Developer for the **DevOps** team. Thanks to this position I have become a versatile developer who is not afraid of change and is always ready to learn something new.
 
 <!--
 **Jgarcia-per/Jgarcia-per** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

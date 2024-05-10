@@ -5,19 +5,37 @@ Currently, I work as a developer for the DevOps team. Thanks to this position I 
  
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h2 align="center"> Estadísticas 🚀</h2>
-<h3 align="center"> Cuenta empresarial </h3>
-
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=jgarcia-asd&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jgarcia-asd&theme=tokyonight" alt="mystreak"/>
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgarcia-asd&theme=tokyonight&layout=compact)
- 
- 
-<h3 align="center"> Cuenta personal </h3>
-
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=jgarcia-per&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jgarcia-per&theme=tokyonight" alt="mystreak"/>
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgarcia-per&theme=tokyonight&layout=compact)
+<h2 align="center"> Statistics 🚀</h2>
+<h3 align="center"> Corporate account </h3>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=jgarcia-asd&show_icons=true&theme=tokyonight"/>
+</p>
+<br>
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgarcia-asd&theme=tokyonight"/>
+</p>
+<br>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgarcia-asd&theme=tokyonight&layout=compact"/>
+</p>
+<br>
+<h3 align="center"> Personal account </h3>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=jgarcia-per&show_icons=true&theme=tokyonight"/>
+</p>
+<br>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=jgarcia-per&show_icons=true&theme=tokyonight"/>
+</p>
+<br>
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgarcia-per&theme=tokyonight"/>
+</p>
+<br>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgarcia-per&theme=tokyonight&layout=compact"/>
+</p>
+<br>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -25,7 +43,7 @@ Currently, I work as a developer for the DevOps team. Thanks to this position I 
 
 ## 🛠 &nbsp;My Skills
 
-<img alt="Night Coding" src="https://i.gifer.com/4I9G.gif" align="right"/>
+<img alt="Night_Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 💻 &nbsp;Programming languages
 
@@ -56,7 +74,23 @@ Currently, I work as a developer for the DevOps team. Thanks to this position I 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🐍 &nbsp;That's How Commits move ...
+<h2 align="center">
+ <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies
+</h2>
+<br>
+<h3 align="center"> Corporate account </h3>
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=jgarcia-asd&theme=juicyfresh&no-bg=true" />
+</p>
+<br>
+
+<h3 align="center"> Personal account </h3>
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=jgarcia-per&theme=juicyfresh&no-bg=true" />
+</p>
+<br>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <a href="https://github.com/Adityakanoi2001/">

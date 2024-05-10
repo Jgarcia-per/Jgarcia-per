@@ -1,4 +1,4 @@
-<h1 align="center"> Hola, soy Juanma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"> Hi, I'm Juanma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 Currently, I work as a developer for the DevOps team. Thanks to this position I have become a versatile developer who is not afraid of change and is always willing to learn something new.
 </p>

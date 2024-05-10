@@ -25,10 +25,6 @@ Currently, I work as a developer for the DevOps team. Thanks to this position I 
 </p>
 <br>
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=jgarcia-per&show_icons=true&theme=tokyonight"/>
-</p>
-<br>
-<p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgarcia-per&theme=tokyonight"/>
 </p>
 <br>

@@ -7,9 +7,6 @@ Currently, I work as a developer for the DevOps team. Thanks to this position I 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="center"> Statistics 🚀</h2>
 <h3 align="center"> Corporate account </h3>
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=jgarcia-asd&show_icons=true&theme=tokyonight"/>
-</p>
 <br>
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgarcia-asd&theme=tokyonight"/>
@@ -20,9 +17,6 @@ Currently, I work as a developer for the DevOps team. Thanks to this position I 
 </p>
 <br>
 <h3 align="center"> Personal account </h3>
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=jgarcia-per&show_icons=true&theme=tokyonight"/>
-</p>
 <br>
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgarcia-per&theme=tokyonight"/>

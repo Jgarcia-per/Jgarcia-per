@@ -8,22 +8,21 @@ Currently, I work as a developer for the DevOps team. Thanks to this position I 
 <h2 align="center"> Statistics 🚀</h2>
 <h3 align="center"> Corporate account </h3>
 <br>
-<p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgarcia-asd&theme=tokyonight"/>
-</p>
-<br>
-<p align="center">
+<p>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgarcia-asd&theme=tokyonight" align="left"/>
+<p align="right">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgarcia-asd&theme=tokyonight&layout=compact"/>
+</p>
 </p>
 <br>
 <h3 align="center"> Personal account </h3>
 <br>
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgarcia-per&theme=tokyonight"/>
-</p>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgarcia-per&theme=tokyonight" align="left"/>
 <br>
-<p align="center">
+<p align="right">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgarcia-per&theme=tokyonight&layout=compact"/>
+</p>
 </p>
 <br>
 
@@ -44,9 +43,12 @@ Currently, I work as a developer for the DevOps team. Thanks to this position I 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 
 
-<!--- ### ⚙ Frameworks - future
+### ⚙ Frameworks
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Django](https://img.shields.io/badge/Django-%23054020?style=for-the-badge&logo=django)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel)&nbsp;
+
+<!--- future
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;

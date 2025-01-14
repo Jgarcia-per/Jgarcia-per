@@ -45,7 +45,9 @@ Currently, I work as a developer for the DevOps team. Thanks to this position I 
 
 ### ⚙ Frameworks
 
-![Django](https://img.shields.io/badge/Django-%23054020?style=for-the-badge&logo=django)&nbsp;
+![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)&nbsp;
+![Django](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)&nbsp;
+![Django](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel)&nbsp;
 
 <!--- future
@@ -63,7 +65,7 @@ Currently, I work as a developer for the DevOps team. Thanks to this position I 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
-<!--horizontal divider(gradiant)-->
+<!--horizontal divider(gradiant)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">
@@ -81,7 +83,7 @@ Currently, I work as a developer for the DevOps team. Thanks to this position I 
  <img src="https://github-profile-trophy.vercel.app/?username=jgarcia-per&theme=juicyfresh&no-bg=true" />
 </p>
 <br>
-
+-->
 <!--
 **Jgarcia-per/Jgarcia-per** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

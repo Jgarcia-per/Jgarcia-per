@@ -7,20 +7,24 @@ Currently, I work as a developer for the DevOps team. Thanks to this position I 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="center"> Statistics 🚀</h2>
 <h3 align="center"> Corporate account </h3>
+<!--
 <br>
 <p>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgarcia-asd&theme=tokyonight" align="left"/>
-<p align="right">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgarcia-asd&theme=tokyonight&layout=compact"/>
 </p>
+ -->
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgarcia-asd&theme=tokyonight&layout=compact"/>
 </p>
 <br>
 <h3 align="center"> Personal account </h3>
 <br>
+<!--
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgarcia-per&theme=tokyonight" align="left"/>
 <br>
-<p align="right">
+ -->
+<p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgarcia-per&theme=tokyonight&layout=compact"/>
 </p>
 </p>
